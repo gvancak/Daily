@@ -87,7 +87,11 @@
         flex-direction: column;
     }
     .left{
+        width: 50%;
         margin: 0px -41px;
         margin-bottom: -100px
+    }
+    .form {
+        width: 100%;
     }
 }
